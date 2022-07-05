@@ -1,3 +1,5 @@
+package StringProgrammes;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -7,6 +9,8 @@ public class dupsnArray {
 
 
         int arraywithdups []  = {1,2,2,3,4,5,5,6,-1,-1};
+
+        int length = arraywithdups.length;
 
 
 

@@ -1,3 +1,4 @@
+package StringProgrammes;
 
 import java.io.*;
 public class stringRunencoding {

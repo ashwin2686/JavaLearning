@@ -1,10 +1,12 @@
-// Java program to print all the permutations
+package StringProgrammes;
+
+// Java program to print all the StringProgrammes.permutations
 // of the given string
 public class permutations {
 
     static int count = 1;
     static int counter = 1;
-    // Function to print all the permutations of str
+    // Function to print all the StringProgrammes.permutations of str
     static void printPermutn(String str, String ans)
     {
 

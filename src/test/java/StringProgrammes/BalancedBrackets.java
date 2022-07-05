@@ -11,8 +11,8 @@ public class BalancedBrackets {
     static boolean areBracketsBalanced(String expr)
     {
         // Using ArrayDeque is faster than using Stack class
-        Deque<Character> stack
-                = new ArrayDeque<Character>();
+        Stack<Character> stack
+                = new Stack<>();
 
         // Traversing the Expression
         for (int i = 0; i < expr.length(); i++)
@@ -60,7 +60,7 @@ public class BalancedBrackets {
     // Driver code
     public static void main(String[] args)
     {
-        String expr = "([{}])";
+        String expr = "({})";
 
         // Function call
         if (areBracketsBalanced(expr))

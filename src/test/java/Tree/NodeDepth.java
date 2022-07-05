@@ -17,14 +17,14 @@ public class NodeDepth
     }
 }
 
-class BinaryTree
+class BinaryTreeDepth
 {
-    Node root;
+    NodeDepth root;
 
     /* Compute the "maxDepth" of a tree -- the number of
     nodes along the longest path from the root node
     down to the farthest leaf node.*/
-    int maxDepth(Node node)
+    int maxDepth(NodeDepth node)
     {
         if (node == null)
             return 0;
@@ -45,13 +45,13 @@ class BinaryTree
     /* Driver program to test above functions */
     public static void main(String[] args)
     {
-        BinaryTree tree = new BinaryTree();
+        BinaryTreeDepth tree = new BinaryTreeDepth();
 
-        tree.root = new Node(1);
-        tree.root.left = new Node(2);
-        tree.root.right = new Node(3);
-        tree.root.left.left = new Node(4);
-        tree.root.left.right = new Node(5);
+        tree.root = new NodeDepth(1);
+        tree.root.left = new NodeDepth(2);
+        tree.root.right = new NodeDepth(3);
+        tree.root.left.left = new NodeDepth(4);
+        tree.root.left.right = new NodeDepth(5);
 
         System.out.println("Height of tree is : " +
                 tree.maxDepth(tree.root));

@@ -1,4 +1,4 @@
-
+package StringProgrammes;
 
 /* Java program to determine if binary tree is
 height balanced or not */
@@ -42,7 +42,7 @@ class BinaryTree {
         boolean r = isBalanced(root.right, rheight);
         int lh = lheight.height, rh = rheight.height;
 
-		/* Height of current node is max of heights of
+		/* StringProgrammes.Height of current node is max of heights of
 		left and right subtrees plus 1*/
         height.height = (lh > rh ? lh : rh) + 1;
 

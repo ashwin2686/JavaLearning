@@ -1,10 +1,8 @@
-package ConvertArraytoBST;
+package Tree.ConvertArraytoBST;
 
 
 
 // Java program to print BST in given range
-
-import Tree.MirrorTree;
 
 // A binary tree node
 

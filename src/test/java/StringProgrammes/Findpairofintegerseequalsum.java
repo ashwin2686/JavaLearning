@@ -1,3 +1,5 @@
+package StringProgrammes;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -14,12 +16,13 @@ public class Findpairofintegerseequalsum {
         for(int value : numbers)
         {
             int target = n - value; // if target number is not in set then add
-            if(!set.contains(target)){
-                set.add(value);
+            if(set.contains(target)){
 
+                System.out.printf("(%d, %d) %n", value, target);
             }else
             {
-                System.out.printf("(%d, %d) %n", value, target);
+
+                set.add(value);
 
             }
         }

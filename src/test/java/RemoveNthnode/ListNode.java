@@ -1,4 +1,4 @@
-package linkedlistmiddleelement;
+package RemoveNthnode;
 
  class ListNode1 {
     int val;
@@ -7,18 +7,33 @@ package linkedlistmiddleelement;
         this.val = val;
     }
 }
-class middleelementLinkedListExample {
+class removeNthnodeclass {
 
-    private static ListNode1 middleoneLinkedList(ListNode1 head) {
-        ListNode1 fast_pointer = head;
-        ListNode1 slow_pointer = head;
+    private static ListNode1 removeNthnode(ListNode1 head, int n) {
 
-        while(fast_pointer != null &&fast_pointer.next != null ) {
+        ListNode1 dummy_node = new ListNode1(0) ;
+        dummy_node.next = head;
 
-            fast_pointer = fast_pointer.next.next;
+
+        ListNode1 fast_pointer = dummy_node;
+        ListNode1 slow_pointer = dummy_node;
+
+
+        for (int i=0 ; i<=n; i++)
+        {
+            fast_pointer = fast_pointer.next;
+        }
+
+        while(fast_pointer != null ) {
+
+            fast_pointer = fast_pointer.next;
             slow_pointer = slow_pointer.next;
         }
-        return slow_pointer;
+
+        slow_pointer.next = slow_pointer.next.next;
+
+
+        return dummy_node.next;
     }
 
     public static void main(String[] args) {
@@ -32,13 +47,15 @@ class middleelementLinkedListExample {
         node.next.next.next.next.next.next.next = new ListNode1(8);
 
 
-
+        System.out.println("Before");
         printList(node);
 
 
-        ListNode1 mNode = middleoneLinkedList(node);
+        ListNode1 mNode = removeNthnode(node,2);
 
-        System.out.print("mNode.val:  "+mNode.val + " ");
+        System.out.println("After");
+
+        printList(mNode);
 
 
 
