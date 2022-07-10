@@ -1,4 +1,4 @@
-package StringProgrammes;
+package Maths;
 
 public class Febinaccione {
 

@@ -9,20 +9,20 @@ public class InsertionSort {
     {
         int n = arr.length;
         for (int i = 1; i < n; ++i) {
-            int key = arr[i];
-            System.out.println( "key first is : "+key);
+            int currentValue = arr[i];
+            System.out.println( "key first is : "+currentValue);
             int j = i - 1;
 
 			/* Move elements of arr[0..i-1], that are
 			greater than key, to one position ahead
 			of their current position */
-            while (j >= 0 && arr[j] > key) {
+            while (j >= 0 && arr[j] > currentValue) {
                 arr[j + 1] = arr[j];
                 j = j - 1;
             }
             System.out.println( "j is : "+j);
-            System.out.println( "key is : "+key);
-            arr[j + 1] = key;
+            System.out.println( "key is : "+currentValue);
+            arr[j + 1] = currentValue;
         }
     }
 

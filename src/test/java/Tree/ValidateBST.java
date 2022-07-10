@@ -1,4 +1,4 @@
-package Tree.ConvertArraytoBST;
+package Tree;
 
 // Java program to check if a given tree is BST.
 

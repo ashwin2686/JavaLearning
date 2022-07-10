@@ -1,6 +1,6 @@
 package Arrays;
 
-public class RemoveDuplicatesSortedArray {
+public class  RemoveDuplicatesSortedArray {
     private static int removeDuplicates(int[] nums) {
         int n = nums.length;
 
