@@ -5,27 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d3d4e2e-d8ea-4082-a8c1-5dc13428b944" name="Changes" comment="BubbleSort added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/DuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/FindMissingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/FindPairstoSUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/FindcommonandDifferentinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/GroupAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/HouseRobber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Graphs/NumberofIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LinkedList/AddTwoNumbers/ListNodeSUM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Maths/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Maths/RevereseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Maths/WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Stack/BackSpacecompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringProgrammes/DetectCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tree/LongestSequence/Longestsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tree/PrintallLeafNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindNumbercloseNumberKtimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FirstandLastIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/NonRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DynamicProgramming/FindCombinationsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Matrix/RotateMatrixby90deg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/RemoveDuplicatesSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/RemoveDuplicatesSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StringProgrammes/Febinaccione.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Maths/Febinaccione.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tree/ConvertArraytoBST/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tree/ValidateBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/BoatstoSavePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/BoatstoSavePeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/CoinChangeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DynamicProgramming/CoinChangeProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/DuplicateII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/DuplicateII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/EquilibriumIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/EquilibriumIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindDuplicatewithNoextraSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindDuplicatewithNoextraSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindKLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindKLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindKLargestQuicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindKLargestQuicksort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindKthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindKthSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindMissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindMissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindMissingRepeatingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindMissingRepeatingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindPairstoSUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindPairstoSUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindPeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindPermutationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindPermutationString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindPermutationsNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindPermutationsNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindallPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindallPermutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Findallsumcombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/Findallsumcombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindcommonNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindcommonNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/FindcommonandDifferentinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/FindcommonandDifferentinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/GroupAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/GroupAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/KthPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/KthPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/LargestSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/LargestSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/MaxAreaofwater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/MaxAreaofwater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/MergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/MergeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Mergearraygfg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/Mergearraygfg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/Mergesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/MinElementinSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/MinElementinSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Pair1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/Pair1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/ProductofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/ProductofArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/RemoveDuplicatesSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/RemoveDuplicatesSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/RotateArraybyK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/RotateArraybyK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/SearchinRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/SearchinRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/TowerofHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/TowerofHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/UniquePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Uniquepath2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/Uniquepath2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/findsumofTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/findsumofTriplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/maxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/maxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/occuranceofDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/occuranceofDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/sort012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayProblems/sort012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LinkedList/KthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LinkedList/KthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Maths/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Maths/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringProgrammes/LongestSubStringWithoutrepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringProgrammes/LongestSubStringWithoutrepeating.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +79,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/FindKLargestQuicksort.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/FindallPermutations.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/Findallsumcombinations.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/LargestSubarray.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/Mergesort.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/Pair1.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/ProductofArray.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/SearchinRotatedArray.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/TowerofHanoi.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/Arrays/occuranceofDigits.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/FindKLargestQuicksort.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/FindallPermutations.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/Findallsumcombinations.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/LargestSubarray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/Mergesort.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/Pair1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/ProductofArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/SearchinRotatedArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/TowerofHanoi.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ArrayProblems/occuranceofDigits.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/test/java/LRU/Node.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/test/java/LinkedlistReverse/ListNode.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/test/java/RemoveNthnode/ListNode.java" root0="FORCE_HIGHLIGHTING" />
@@ -94,13 +130,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateII">
-    <configuration name="DetectCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringProgrammes.DetectCapital" />
+  <component name="RunManager" selected="Application.middleelementLinkedListExample">
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayProblems.MajorityElement" />
       <module name="JavaMagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringProgrammes.*" />
+          <option name="PATTERN" value="ArrayProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.DuplicateII" />
+    <configuration name="NonRepeatingElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayProblems.NonRepeatingElement" />
       <module name="JavaMagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="ArrayProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FindMissingNumbers" />
+    <configuration name="ReverseLinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedlistReverse.ReverseLinkedListExample" />
       <module name="JavaMagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="LinkedlistReverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindcommonandDifferentinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FindcommonandDifferentinArray" />
+    <configuration name="findsumofTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayProblems.findsumofTriplets" />
       <module name="JavaMagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="ArrayProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.KthSmallestElement" />
+    <configuration name="middleelementLinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlistmiddleelement.middleelementLinkedListExample" />
       <module name="JavaMagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="linkedlistmiddleelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,20 +207,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.DetectCapital" />
-      <item itemvalue="Application.DuplicateII" />
-      <item itemvalue="Application.FindMissingNumbers" />
-      <item itemvalue="Application.FindcommonandDifferentinArray" />
-      <item itemvalue="Application.KthSmallestElement" />
+      <item itemvalue="Application.MajorityElement" />
+      <item itemvalue="Application.NonRepeatingElement" />
+      <item itemvalue="Application.ReverseLinkedListExample" />
+      <item itemvalue="Application.findsumofTriplets" />
+      <item itemvalue="Application.middleelementLinkedListExample" />
       <item itemvalue="Remote JVM Debug.permutations_debug" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DuplicateII" />
-        <item itemvalue="Application.FindMissingNumbers" />
-        <item itemvalue="Application.DetectCapital" />
-        <item itemvalue="Application.FindcommonandDifferentinArray" />
-        <item itemvalue="Application.KthSmallestElement" />
+        <item itemvalue="Application.middleelementLinkedListExample" />
+        <item itemvalue="Application.ReverseLinkedListExample" />
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.findsumofTriplets" />
+        <item itemvalue="Application.NonRepeatingElement" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657042060582</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BubbleSort added">
+      <created>1657429864015</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657429864015</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +269,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Arrays/FindPermutationString.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/ArrayProblems/FindPermutationString.java</url>
           <line>34</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>

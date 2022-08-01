@@ -74,7 +74,7 @@ public class KthNode {
 
 
 
-        llist.printNthFromLast(5);
+        llist.printNthFromLast(2);
     }
 
 

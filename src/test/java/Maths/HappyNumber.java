@@ -10,7 +10,7 @@ public class HappyNumber {
 
         while (n!=1)
         {
-            int current =1;
+            int current =n;
             int sum=0;
 
             while (current!=0)
